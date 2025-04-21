@@ -1,0 +1,45 @@
+Campaign_ID,Platform,Date,Clicks,Impressions,Ad_Spend,Conversions,CTR (%),Conversion_Rate (%),Ad_Format,Audience_Segment,Time_of_Day,Predicted_CTR (%),Predicted_Conversions,ROI (%)
+101,Google Ads,2024-01-01,120,1500,300,12,8,10,Banner,Young Adults,Afternoon,8.5,14,45
+102,Facebook Ads,2024-01-01,80,1000,200,8,8,12.5,Video,Professionals,Evening,8.2,10,38
+103,Instagram,2024-01-02,90,1300,250,10,6.9,11.1,Story,Teens,Morning,7,11,42
+104,Google Ads,2024-01-02,150,1800,400,14,8.3,9.3,Banner,Parents,Evening,8.9,16,48
+105,Facebook Ads,2024-01-03,70,900,180,6,7.8,8.5,Carousel,Students,Afternoon,7.9,8,36
+106,Instagram,2024-01-03,100,1100,220,11,9.1,10,Image,Young Adults,Morning,9.4,12,40
+107,Facebook Ads,2024-04-28,133,1427,308,14,9.3,10.5,Banner,Seniors,Evening,7.3,18,32
+108,Google Ads,2024-02-14,78,879,144,8,8.9,10.3,Image,Seniors,Evening,8.3,13,36
+109,Facebook Ads,2024-02-26,76,1492,347,13,5.1,17.1,Image,Teens,Night,7.5,9,46
+110,LinkedIn Ads,2024-06-14,123,1222,399,12,10.1,9.8,Image,Young Adults,Evening,7.2,17,40
+111,Facebook Ads,2024-12-12,183,1024,185,18,17.9,9.8,Banner,Students,Night,8.2,13,38
+112,Google Ads,2024-03-01,109,1463,280,14,7.5,12.8,Video,Parents,Morning,9.1,11,45
+113,Twitter Ads,2024-04-25,66,1321,199,8,5,12.1,Story,Professionals,Afternoon,8,9,37
+114,Instagram,2024-06-06,94,1410,323,11,6.7,11.7,Banner,Young Adults,Morning,8.5,12,39
+115,LinkedIn Ads,2024-11-21,116,1805,422,13,6.4,11.2,Video,Professionals,Evening,9.2,15,40
+116,Twitter Ads,2024-05-14,82,1284,212,10,6.4,12.2,Image,Parents,Night,8.4,13,36
+117,Google Ads,2024-01-07,110,1700,300,15,6.5,13.6,Banner,Young Adults,Afternoon,8.5,14,45
+118,Facebook Ads,2024-01-14,88,1400,220,9,6.3,10.2,Video,Professionals,Evening,8.3,10,38
+119,Instagram,2024-01-22,95,1300,250,11,7.3,11.6,Story,Teens,Morning,8,11,42
+120,Google Ads,2024-02-01,120,1800,400,16,6.7,13.3,Banner,Parents,Evening,8.9,16,48
+121,LinkedIn Ads,2024-02-07,78,1200,180,10,6.5,12.8,Carousel,Students,Afternoon,7.9,9,36
+122,Instagram,2024-02-15,100,1100,200,12,9.1,10.5,Image,Young Adults,Morning,9,13,40
+123,Twitter Ads,2024-02-20,130,1500,300,14,8.7,10.8,Banner,Parents,Evening,8.5,16,45
+124,LinkedIn Ads,2024-03-05,75,1100,210,9,6.8,12,Video,Professionals,Morning,8.4,10,39
+125,Facebook Ads,2024-03-12,115,1500,320,13,7.7,11.3,Image,Parents,Evening,8.9,15,44
+126,Google Ads,2024-03-19,60,1000,180,7,6,11.7,Video,Young Adults,Afternoon,7.6,9,37
+127,Instagram,2024-03-25,90,1200,220,10,7.5,12.5,Carousel,Teens,Morning,8.1,11,41
+128,Twitter Ads,2024-03-30,100,1400,250,12,7.1,12,Banner,Students,Afternoon,8.5,14,43
+129,LinkedIn Ads,2024-04-05,85,1100,200,9,7.7,10.6,Image,Professionals,Evening,8.3,11,40
+130,Facebook Ads,2024-04-10,95,1300,240,11,7.3,11.6,Video,Parents,Morning,8.8,12,42
+131,Google Ads,2024-04-15,105,1500,280,14,7,13.3,Banner,Young Adults,Evening,8.6,15,46
+132,Twitter Ads,2024-04-20,65,1200,200,8,5.4,12.3,Story,Professionals,Afternoon,7.5,10,38
+133,LinkedIn Ads,2024-04-25,85,1100,210,10,7.7,11.8,Video,Parents,Morning,8.4,12,39
+134,Instagram,2024-04-30,90,1400,230,12,6.4,13.3,Banner,Students,Evening,8.1,13,41
+135,Facebook Ads,2024-05-05,100,1300,260,12,7.7,12,Carousel,Young Adults,Morning,9,14,43
+136,Twitter Ads,2024-05-10,90,1200,240,10,7.5,11.1,Image,Teens,Afternoon,8.9,13,40
+137,Google Ads,2024-05-15,85,1300,270,9,6.5,10.6,Video,Parents,Evening,8.6,11,39
+138,Facebook Ads,2024-05-20,75,1100,200,8,6.8,10.7,Banner,Young Adults,Morning,8.4,10,38
+139,LinkedIn Ads,2024-05-25,120,1500,300,15,8,12.5,Video,Professionals,Evening,8.9,15,45
+140,Instagram,2024-05-30,90,1100,220,10,8.2,11.1,Carousel,Teens,Afternoon,8.7,12,41
+141,Twitter Ads,2024-06-05,110,1400,250,13,7.9,11.8,Image,Students,Morning,9.1,13,43
+142,Google Ads,2024-06-10,100,1500,280,12,6.7,12,Banner,Young Adults,Evening,8.5,14,46
+143,Facebook Ads,2024-06-15,70,1000,200,7,7,10,Video,Parents,Afternoon,7.8,9,36
+144,LinkedIn Ads,2024-06-20,130,1800,320,15,7.2,11.5,Image,Students,Evening,8.9,16,47
